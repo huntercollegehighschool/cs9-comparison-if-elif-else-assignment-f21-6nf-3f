@@ -1,4 +1,4 @@
-program = input("Which part(1, 2, 3, 4, or 5)? ")
+program = input("Hello! Which part (1, 2, 3, 4, or 5) do you want to test? ")
 
 while program not in ['1', '2', '3', '4', '5']:
   print("Enter a valid part of the assignment.")
